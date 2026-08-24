@@ -115,8 +115,6 @@ Format: `Type,Description,Amount`
 
 **Kamran Khan**
 - GitHub: [@KamranKhan2k24](https://github.com/KamranKhan2k24)
-- Instagram: [@yourkamranhere](https://instagram.com/yourkamranhere)
-
 ---
 
 ## 📄 License
